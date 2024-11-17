@@ -1,3 +1,3 @@
 # cypress-workshop
 
-Hello!
+Hello Cypress!
